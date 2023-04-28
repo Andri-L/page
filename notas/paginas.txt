@@ -1,0 +1,23 @@
+https://www.youtube.com/watch?v=Q9vP43V7Q5E
+Video útil para entender cómo usar fonts de Google con CSS.
+
+https://www.youtube.com/watch?v=G417Cl-f07s
+Usar shorthands properties "usar margin: 10 5 10 5"
+
+https://htmlcolorcodes.com/es/tutoriales/css-color-de-fondo/
+"position: absolute" para que el color del fondo se muestre por toda la pantalla
+
+https://www.youtube.com/watch?v=6fh7ZTj2t2k
+> El curso de css de DORIAN DESIGN es muy bueno, me gustaría verlo para hacer mejores páginas con CSS.
+> Siempre utilizar clases en css ".text por ejemplo" para no dañar la cascada en la forma que se atribuyen cosas en CSS.
+
+> "height: fit-content;" en el background, rellena la página.
+
+https://www.w3.org/TR/WCAG10-CSS-TECHS/
+> Esta página enseña cómo usar las medidas de unidad y en cada caso.
+
+https://www.youtube.com/watch?v=nz6DIeBdZtY
+Este sujeto nos enseña a utilizar las unidades de medida REM y EM. Es muy útil para los contenedores.
+
+https://www.elcolombiano.com/internacional/rusia-invade-a-ucrania-putin-ordena-operacion-militar-y-bombardea-kiev-y-otras-ciudades-DE16655017
+Noticia en la que estoy basando la información.
